@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#c2eef1f2</color>
+    <color name="Branco">#C2EEF1F2</color>
+    <color name="Fundodegrade">#5DC784</color>
+</resources>
