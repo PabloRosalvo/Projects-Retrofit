@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewD" type="id">first_name</item>
+    <item name="first_nameD" type="id">last_name</item>
+    <item name="last_nameD" type="id">images</item>
+</resources>
